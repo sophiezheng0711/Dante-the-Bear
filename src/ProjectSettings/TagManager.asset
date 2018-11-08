@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gate
+  - pipe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 247386661
+    locked: 0
+  - name: Platforms
+    uniqueID: 499715583
+    locked: 0
+  - name: Pickup
+    uniqueID: 3940962305
+    locked: 0
+  - name: Enemies
+    uniqueID: 2559838665
+    locked: 0
+  - name: Bullets
+    uniqueID: 1825520649
+    locked: 0
+  - name: Player
+    uniqueID: 859333925
+    locked: 0
+  - name: UI
+    uniqueID: 994311633
+    locked: 0
